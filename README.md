@@ -7,4 +7,6 @@
 - Download the apk
 - Install *Nebula* on your phone
 - [Side-load](https://www.xda-developers.com/how-to-sideload-install-android-app-apk/) the APK
-- 
+- Start Nebula on your phone
+- Swipe to page 2
+- Tap on the APK
