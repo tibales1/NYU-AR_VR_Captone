@@ -1,5 +1,5 @@
 # NYU-AR_VR_Captone
-### To view larger files and the trailer, click on the file and download
+#### *To view larger files and the trailer, click on the file and download*
 ### Instructions on how to test the APK
 #### Requirements
 - [Nreal Light Glasses](https://www.nreal.ai/light/?gclid=Cj0KCQjwyMiTBhDKARIsAAJ-9VsRpPyiJ_ic3spfOfd3X4tD7hA3w7PxBP4gId_6BJqMALbcoqlgwNAaAuhIEALw_wcB)
