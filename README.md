@@ -11,3 +11,8 @@
 - Start Nebula on your phone
 - Swipe to page 2
 - Tap on the APK
+
+### Prefered Contact Information
+#### Thomas Bales
+#### tibales@hotmail.com
+#### You can find me on linked it too!
