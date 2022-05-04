@@ -15,4 +15,4 @@
 ### Prefered Contact Information
 #### Thomas Bales
 #### tibales@hotmail.com
-#### You can find me on linked it too!
+#### You can find me on linkedin it too!
