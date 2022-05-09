@@ -1,5 +1,6 @@
 ## Island Wars AR - Assets
 ### Models of Weapons
+*FXBs can be available on request*
 #### Torpedo
 ##### Characteristics
 - Slow but deals heavy damage
