@@ -17,6 +17,13 @@
 - Swipe to page 2
 - Tap on the APK
 
+# Directory
+- [Concepts](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/concepts), is where to find documentation is where game mechanics and play is found.
+- [Game](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/game), is where to find in game screen shots and clips.
+- [Scratch](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/scratch), is an assembly of notes and is the archive for this game.
+- [Models](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/models), is where  to find weapons and other concepts.
+- [Shots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots), is where to find game shot taken from lightwave or unity.
+
 ### Prefered Contact Information
 #### Thomas Bales
 #### tibales@hotmail.com
