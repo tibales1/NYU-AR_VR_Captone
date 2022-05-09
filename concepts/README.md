@@ -26,6 +26,6 @@
 ## Environment
 - Rocks cause damage and can move on impact
 - Storms
-- - Electrical stop resources developmet
+- - Electrical stop resource development and weapon recharging
 - - Radiation does damage over time
 - - Arena boundaries will cause you to die if you beyond them
