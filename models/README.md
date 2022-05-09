@@ -9,6 +9,7 @@
 - Slow but deals heavy damage
 - Long range
 - Fast reload time
+
 ![Torpedo](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/models/torpedo.JPG)
 
 #### Tesla Beam
@@ -16,6 +17,7 @@
 - Heavy damage
 - Medium range
 - Medium recharge
+
 ![Tesla Beam](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/models/Tesla%20Beam.JPG)
 
 ### Mine
@@ -24,6 +26,7 @@
 - Passive weapon unless island is a tech level 3
 - Island can lay 5 mines in 1/4 second intervals
 - Mine replacement is on a 2 minute cooldown
+
 ![Mine](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/models/mine.JPG)
 
 ### Comming soon!
