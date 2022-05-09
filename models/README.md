@@ -1,5 +1,5 @@
 ## Island Wars AR - Assets
-### Models of Weapon Systems
+### Models of Weapons
 #### Torpedo
 ##### Characteristics
 - Slow but deals heavy damage
@@ -12,4 +12,4 @@
 - Heavy damage
 - Medium range
 - Medium recharge
-- ![Tesla Beam]()
+- ![Tesla Beam](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/models/Tesla%20Beam.JPG)
