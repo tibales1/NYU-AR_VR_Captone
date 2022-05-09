@@ -34,3 +34,5 @@
 - Light to heavy damage
 ### Armor
 - Shields per side colored based on damage taken (green healthy, yellow ok, red bad).
+### Intercepters
+- Fighters launched from a launch bay
