@@ -20,5 +20,5 @@
 - Medium damage
 - Passive weapon unless island is a tech level 3
 - Island can lay 5 mines in 1/4 second intervals
-- Mine replacement takes 2 minute
+- Mine replacement is on a 2 minute cooldown
 ![Mine](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/models/mine.JPG)
