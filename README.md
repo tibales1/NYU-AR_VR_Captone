@@ -24,6 +24,9 @@
 - [Models](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/models) is where  to find weapons and other concepts.
 - [Shots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots) is where to find game shot taken from lightwave or unity.
 
+# Capstone Requirements
+-
+
 ### Prefered Contact Information
 #### Thomas Bales
 #### tibales@hotmail.com
