@@ -37,6 +37,7 @@
 - Instructions - right here!
 - [Bugs](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Debug%20Documentation.docx)
 - [Press release](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/PressRelease.md)
+- [Professional Goals](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/scratch/Goals.md)
 
 ### Prefered Contact Information
 #### Thomas Bales
