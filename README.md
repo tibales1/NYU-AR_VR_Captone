@@ -25,7 +25,17 @@
 - [Shots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots) is where to find game shot taken from lightwave or unity.
 
 # Capstone Requirements
--
+- [Representative Image]()
+- [Short descriptio]()
+- [Long description]()
+- [Screenshots]()
+- [Video Trailer]()
+- [Working prototype]()
+- [Onboarding instructions]()
+- Access information - right here, but you can email me for FXB models
+- Instructions - right here!
+- [Bugs]()
+- [Press release]()
 
 ### Prefered Contact Information
 #### Thomas Bales
