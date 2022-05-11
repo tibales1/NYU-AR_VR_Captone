@@ -28,5 +28,5 @@
 ##### *as you navigate around hazards and barriers. What I would have liked was for this studio*
 ##### *to have some options to set the size of the arena, but it understandable they they did not*
 ##### *because it is still in aplha. All in all, this game shows promise and we can't wait to see*
-##### *the final product.
+##### *the final product.*
 
