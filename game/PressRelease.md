@@ -3,11 +3,11 @@
 #### 5/11/22
 
 
-##### > *Today, Eight Forty Six Studio released a new augmented reality designed to be played*
-##### *on Nreal's low cost augmented reality glasses. The glasses can easily be picked up*
+##### > *Today, Eight Forty Six Studio released a new augmented reality game designed to be played*
+##### *on Nreal's low cost AR glasses. The glasses can easily be picked up*
 ##### *for around 500 bucks at your local Verizon store. The game is an interesting concept* 
-##### *in that tow player can interact together in any space while playing the game.*
-##### *Traditional video games lake real quality when it comes to playing a game with another*
+##### *in that two players can interact together in any space while playing the game.*
+##### *Traditional video games lack any real human interaction when it comes to playing a game with another*
 ##### *player. However, Island Wars nails this and creates an experience where both players can*
 ##### *see, talk, and communicate while playing outside or in a room.*
 
@@ -17,9 +17,9 @@
 ##### *weights about three ounces. In the past, the only way to create interactive XR was to use bulky*
 ##### *headsets that weight a few pounds and thats not mentioning having a consumer put down 2,500 to*
 ##### *3,500 dollars just to see if this is something they might like. Additionally, setting up the* 
-##### *headsets was also comlex. The beauty about the system that Eight Forty Six used was that it is* 
-##### *as simple downloading an application from the Google play store, plugging in the glasses to* 
-##### *your phone, choosing an XR style, and selecting the application you want to play.*
+##### *headsets was also comlex. The beauty about the system that Eight Forty Six used is that setup* 
+##### *and onboarding is as simple downloading an application from Google play store, plugging a phone*  
+##### *into the glasses, choosing an XR style, and selecting the application you want to play.*
 
 ##### > *This game concept really shines as it pits two players fighting each other in a battleship*
 ##### *format where you fly a floating island that is armed to the teeth and manuever around a room*
