@@ -3,7 +3,7 @@
 #### 5/11/22
 
 
-##### > *Today Eight Forty Six Studio released a new augmented reality designed to be played*
+##### > *Today, Eight Forty Six Studio released a new augmented reality designed to be played*
 ##### *on Nreal's low cost augmented reality glasses. The glasses can easily be picked up*
 ##### *for around 500 bucks at your local Verizon store. The game is an interesting concept* 
 ##### *in that tow player can interact together in any space while playing the game.*
