@@ -1,5 +1,5 @@
 ## Headline: Eight Forty Six Studio Releases a Island Wars: AR Alpha
-### *Game creates an augmented reality experience desing on low cost hardware.*
+### *Game creates an augmented reality experience on low cost hardware.*
 #### 5/11/22
 
 
