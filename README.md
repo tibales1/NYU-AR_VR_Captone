@@ -36,7 +36,7 @@
 - Access information - right here, but you can email me for FXB models
 - Instructions - right here!
 - [Bugs](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Debug%20Documentation.docx)
-- [Press release]()
+- [Press release](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/PressRelease.md)
 
 ### Prefered Contact Information
 #### Thomas Bales
