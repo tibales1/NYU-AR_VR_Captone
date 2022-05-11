@@ -33,7 +33,7 @@
 - [Presentation video](https://youtu.be/mFMTrUGn5b4)
 - [Working prototype](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/IslandWars.apk)
 - [Onboarding instructions](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Onboarding.docx)
-- Access information - right here, but you can email me for FXB models
+- Access information - right here, but you can email me for the FXB models
 - Instructions - right here!
 - [Bugs](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Debug%20Documentation.docx)
 - [Press release](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/PressRelease.md)
