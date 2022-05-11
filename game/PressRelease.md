@@ -3,7 +3,7 @@
 #### 5/11/22
 
 
-##### > *Today Eight Forty Six Studio release a new augmented reality designed to be played*
+##### > *Today Eight Forty Six Studio released a new augmented reality designed to be played*
 ##### *on Nreal's low cost augmented reality glasses. The glasses can easily be picked up*
 ##### *for around 500 bucks at your local Verizon store. The game is an interesting concept* 
 ##### *in that tow player can interact together in any space while playing the game.*
@@ -20,4 +20,13 @@
 ##### *headsets was also comlex. The beauty about the system that Eight Forty Six used was that it is* 
 ##### *as simple downloading an application from the Google play store, plugging in the glasses to* 
 ##### *your phone, choosing an XR style, and selecting the application you want to play.*
+
+##### > *This game concept really shines as it pits two players fighting each other in a battleship*
+##### *format where you fly a floating island that is armed to the teeth and manuever around a room*
+##### *using just your phone. There were various weapon options and well as resource management.*
+##### *The arena was interesting and allowed for multiple strategies to be used to defeat your enemy*
+##### *as you navigate around hazards and barriers. What I would have liked was for this studio*
+##### *to have some options to set the size of the arena, but it understandable they they did not*
+##### *because it is still in aplha. All in all, this game shows promise and we can't wait to see*
+##### *the final product.
 
