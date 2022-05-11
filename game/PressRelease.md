@@ -12,7 +12,7 @@
 ##### *see, talk, and communicate while playing outside or in a room.*
 
 ##### > *This game will change the way we interact while gaming. Using low cost commercial augmented*
-##### *Eight Forty Six gets it just right. When we played the prototype we were amazed at how far* 
+##### *hardware Eight Forty Six gets it just right. When we played the prototype we were amazed at how far* 
 ##### *technology has come where we can play or be in an extended reality (XR) world with harware that*
 ##### *weights about three ounces. In the past, the only way to create interactive XR was to use bulky*
 ##### *headsets that weight a few pounds and thats not mentioning having a consumer put down 2,500 to*
