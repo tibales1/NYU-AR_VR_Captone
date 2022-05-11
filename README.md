@@ -26,15 +26,16 @@
 
 # Capstone Requirements
 - [Representative Image](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/Island%20Wars%20Main%20Picture.JPG)
-- [Short description]()
-- [Long description]()
-- [Screenshots]()
+- [Short description](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/ShortDescription.md)
+- [Long description](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/LongDescription.md)
+- [Screenshots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots)
 - [Video Trailer]()
-- [Working prototype]()
-- [Onboarding instructions]()
+- [Presentation video](https://youtu.be/mFMTrUGn5b4)
+- [Working prototype](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/IslandWars.apk)
+- [Onboarding instructions](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Onboarding.docx)
 - Access information - right here, but you can email me for FXB models
 - Instructions - right here!
-- [Bugs]()
+- [Bugs](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Debug%20Documentation.docx)
 - [Press release]()
 
 ### Prefered Contact Information
