@@ -1,4 +1,4 @@
 ### My goals for the project and the reasons I chose to use AR are:
-- To be able to manipulate objects and environment in ar so that I can incorporate geographic information systems apllications in the future when the technology is ready for GIS use cases.
-- To be able to eventualy use SLAM technologies with a phone to create applications that multiple people can use at the same time in the same place and collaborate around an AR image to find a good solution to the business problem.
+- To be able to manipulate objects in ar so that I can create geographic information systems apllications in the future when the technology is ready for GIS use cases.
+- To be able to eventually use SLAM technologies with a phone to create applications that multiple people can use at the same time in the same place and collaborate around an AR image to find a good solution to the business problem.
 - To use a phone along with AR glasses to allow visualization of objects while moving in a car. I was not able to do this with Hololens because of the hardware, but with a phone, the gps hardware is here so I would like to test putting objects in the real world and be able to reasonably locate them with this system. That is, a phone and Nreal Light.
