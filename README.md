@@ -29,7 +29,7 @@
 - [Short description](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/ShortDescription.md)
 - [Long description](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/LongDescription.md)
 - [Screenshots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots)
-- [Video Trailer]()
+- [Video Trailer](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Trailer.mp4)
 - [Presentation video](https://youtu.be/mFMTrUGn5b4)
 - [Working prototype](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/IslandWars.apk)
 - [Onboarding instructions](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/Island%20Wars%20Onboarding.docx)
