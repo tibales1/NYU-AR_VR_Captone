@@ -25,8 +25,8 @@
 - [Shots](https://github.com/tibales1/NYU-AR_VR_Captone/tree/main/shots) is where to find game shot taken from lightwave or unity.
 
 # Capstone Requirements
-- [Representative Image]()
-- [Short descriptio]()
+- [Representative Image](https://github.com/tibales1/NYU-AR_VR_Captone/blob/main/game/Island%20Wars%20Main%20Picture.JPG)
+- [Short description]()
 - [Long description]()
 - [Screenshots]()
 - [Video Trailer]()
